@@ -9,3 +9,8 @@ The withdraw function enables users to withdraw cash from their account, and the
 
 The transfer function allows the user to transfer money between their account to the other account with the help of receiver's account number.
 The quit function allows user to exit the program safely.
+
+
+
+https://user-images.githubusercontent.com/91070190/227774804-f66c0e62-271a-458f-b333-39e972bbe722.mp4
+
